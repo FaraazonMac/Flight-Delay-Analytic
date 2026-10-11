@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+*.bak*
+/data/raw/
+/data/processed/flights_clean.csv

@@ -130,3 +130,19 @@ python scripts/compute_report_metrics.py
 * **Analyst:** Mohammed Faraaz Shaik — [faraazshaik05042005@gmail.com](mailto:faraazshaik05042005@gmail.com)
 * **LinkedIn:** [www.linkedin.com/in/mohammed-faraaz-shaik](https://www.linkedin.com/in/mohammed-faraaz-shaik)
 * **GitHub:** [FaraazonMac](https://github.com/FaraazonMac)
+
+## Upload Your Data
+
+The app also lets you analyse your own dataset. The screenshots below show the output when you provide your own sample data in the **"Upload Your Data"** section.
+
+### 1. Upload guide
+
+![Upload guide](images/upload-guide.png)
+
+### 2. Upload steps
+
+![Upload steps](images/upload-steps.png)
+
+### 3. What-if analysis
+
+![What-if analysis](images/upload-whatif.png)

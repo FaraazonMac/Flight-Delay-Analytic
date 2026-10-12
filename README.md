@@ -125,6 +125,38 @@ python scripts/compute_report_metrics.py
 
 ## Results
 
+### Built-in Dataset Analysis
+
+The dashboard ships with the **2015 US DOT flight-delay dataset (~5.7 million flight records)**. The app runs on a 10% sample (572,920 flights) and scales volumes to the full dataset. The screenshots below walk through each tab of the dashboard on this built-in data.
+
+#### 1. Executive Overview
+
+![Executive Overview](images/builtin-1a-executive-overview.png)
+
+![Delay root causes and airport bottlenecks](images/builtin-1b-root-causes.png)
+
+#### 2. Airline Deep-Dive
+
+![Airline Deep-Dive](images/builtin-2-airline-deep-dive.png)
+
+#### 3. Temporal & Congestion Trends
+
+![Temporal and Congestion Trends](images/builtin-3-temporal-trends.png)
+
+#### 4. Methodology & Statistics
+
+![Delay distribution and statistical insights](images/builtin-4a-delay-distribution.png)
+
+![ML-Powered Economic Decision Simulator](images/builtin-4b-ml-simulator.png)
+
+#### 5. Rolls-Royce SLA Optimizer
+
+![Rolls-Royce SLA Optimizer](images/builtin-5a-sla-optimizer.png)
+
+![Turbine Thermal Fatigue Index](images/builtin-5b-fatigue-index.png)
+
+---
+
 ### Upload Your Data
 
 The app also lets you analyse your own dataset. The screenshots below show the output when you provide your own sample data in the **"Upload Your Data"** section.

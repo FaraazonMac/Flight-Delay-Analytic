@@ -234,9 +234,7 @@ with st.sidebar:
     )
 
 # 5. Header Visual Branding
-col_logo, col_title = st.columns([0.08, 0.92])
-with col_title:
-    st.markdown("### Aviation Operations Analytics")
+st.title("Aviation Operations Analytics")
 
 # 6. Top-Level KPIs (Premium Layout with metric container styling)
 total_flights = len(filtered_df)

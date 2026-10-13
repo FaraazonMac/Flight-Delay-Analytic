@@ -1,6 +1,6 @@
-# ✈️ US Domestic Flight Operations & Congestion Analytics (2015)
+# Flight Delay Analytics Automation Pipeline
 
-An executive-level, reproducible data engineering and analytics dashboard investigating US domestic flight delays using a representative sample (~570k flights) of the 5.7M record US DOT dataset. 
+An executive-level, reproducible data engineering and analytics dashboard investigating US domestic flight delays using a representative sample (~570k flights) of the 5.7M record US DOT dataset. Also n automated pipeline that reads structured data, auto-matches columns and applies logged cleaning steps (duplicates, missing values, standardisation). So that analysis can be done on the dataset provided.
 
 This repository showcases safety-critical coding standards (inspired by DO-178C and NASA JPL rules), advanced memory optimization, prescriptive simulations, and interactive geospatial telemetry built for aviation operations.
 

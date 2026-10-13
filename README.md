@@ -19,7 +19,7 @@ Flight delays cost airlines, airports and passengers time and money. In 2015, ab
 **Deliverables:** an interactive Streamlit dashboard and a written report with findings and recommendations.
 
 
-## 📈 Executive Summary
+## Executive Summary
 
 * **Dataset Volume:** 5,729,195 US domestic flights (2015 DOT BTS)
 * **System-Wide Delay Rate (>15m):** 17.86%
@@ -31,7 +31,7 @@ Flight delays cost airlines, airports and passengers time and money. In 2015, ab
 
 ---
 
-## ⚙️ Architecture & Features
+## Architecture & Features
 
 ### 1. Prescriptive "What-If" Operational Simulator
 Instead of just describing historical bottlenecks, the dashboard features a **what-if decision-support simulator**. Users can slide operational relief parameters (e.g., reducing Spirit Airlines turnaround times, relieving O'Hare ground traffic, or adding evening scheduling buffers) to instantly re-project the entire flight network's delay rates and calculate **passenger hours saved** in real-time.
@@ -58,7 +58,7 @@ The project explicitly documents statistical distribution skewness:
 
 ---
 
-## 💻 Tech Stack & Memory Optimizations
+## Tech Stack & Memory Optimizations
 
 * **Analytics:** Python 3.12, Pandas, NumPy, Plotly Express, Plotly Graph Objects.
 * **Visualization:** Streamlit Dashboard with custom CSS glassmorphism styling and Outfit typography.
@@ -69,7 +69,7 @@ The project explicitly documents statistical distribution skewness:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── app.py                     # Streamlit dashboard entry point (visuals & simulator)
@@ -90,7 +90,7 @@ The project explicitly documents statistical distribution skewness:
 
 ---
 
-## 🚀 Quick Start & Reproducibility
+## Quick Start & Reproducibility
 
 ### 1. Setup Virtual Environment
 ```bash
@@ -175,7 +175,7 @@ The app also lets you analyse your own dataset. The screenshots below show the o
 
 ---
 
-## 📧 Contact & Info
+## Contact & Info
 
 * **Analyst:** Mohammed Faraaz Shaik — [faraazshaik05042005@gmail.com](mailto:faraazshaik05042005@gmail.com)
 * **LinkedIn:** [www.linkedin.com/in/mohammed-faraaz-shaik](https://www.linkedin.com/in/mohammed-faraaz-shaik)
